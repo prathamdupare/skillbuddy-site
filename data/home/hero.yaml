@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Find **Workshops** That You Need"
+  text: "Something Something here"
+
+  buttonPrimary:
+    label: "Join"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
